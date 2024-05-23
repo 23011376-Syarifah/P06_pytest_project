@@ -1,0 +1,4 @@
+.pytest_cache
+__pycache__/
+
+#folder will be ignored and will not be pushed into git 
